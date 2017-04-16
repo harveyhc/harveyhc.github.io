@@ -1,5 +1,5 @@
 ---
-title: 记录 Hexo + GitHub Pages 建立个人博客的过程
+title: 记录 Hexo + GitHub Pages 建立个人博客
 date: 2017-04-16 09:13:26
 tags: [GitHub Pages,Hexo]
 categories: Blog
