@@ -154,7 +154,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-avatar: http://oohcvxj2i.bkt.clouddn.com/own/logo.jpg?imageMogr2/auto-orient/thumbnail/!30p/format/jpg/blur/1x0/quality/100|imageslim
+avatar: http://oohcvxj2i.bkt.clouddn.com/own/logo2.jpg?imageMogr2/auto-orient/thumbnail/!100p/format/jpg/blur/1x0/quality/100|imageslim
 
 
 # Table Of Contents in the Sidebar
@@ -294,7 +294,7 @@ mathjax:
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: harveyhc
   count: true
 
 # Hypercomments
@@ -311,7 +311,7 @@ changyan:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
+youyan_uid: 2131221
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -354,7 +354,7 @@ changyan:
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
