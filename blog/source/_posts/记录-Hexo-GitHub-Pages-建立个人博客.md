@@ -5,7 +5,19 @@ tags: [GitHub Pages,Hexo]
 categories: Blog
 ---
 
-​		本次记录在Windows上执行，其他平台未测试。
+***
+
+  本博客搭建在Windows上执行，其他平台未测试。
+
+***
+
+首先简单描述一下搭建的大体流程:
+
+* 拥有一个github pages。
+* 本地配置hexo环境。
+* 绑定域名（也可以不绑定，github pages 本身会提供一个二级域名）。
+
+***
 
 
 ## 环境搭建
@@ -50,7 +62,7 @@ categories: Blog
 
 ​	——下面提到的[userName]代表GitHub的用户名。
 
-​	创建一个仓库来存放个人主页，仓库的名字必须是[userName]/[userName].github.io，这是特殊的命名约定。这样就可以通过http://username.github.io](http://username.github.io/) 来访问个人主页。需要注意随后提交的主页内容必须放在master分支。
+​	创建一个仓库来存放个人主页，仓库的名字必须是\[userName].github.io，这是特殊的命名约定。这样就可以通过http://username.github.io](http://username.github.io/) 来访问个人主页。需要注意随后提交的主页内容必须放在master分支。
 
 ***
 
